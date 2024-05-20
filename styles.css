@@ -44,6 +44,9 @@ body {
 }
 
 .answer-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   margin-bottom: 1rem;
   border-bottom: hsl(275, 100%, 97%)
 }
@@ -59,4 +62,8 @@ h2 {
 
 .attribution {
   margin-top: 1rem;
+}
+
+#answer-one {
+  display: flex;
 }
