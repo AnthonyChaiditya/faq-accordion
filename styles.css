@@ -67,3 +67,7 @@ h2 {
 #answer-one {
   display: flex;
 }
+
+button {
+  margin-left: 1rem;
+}
